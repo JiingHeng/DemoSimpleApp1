@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoSimpleApp1</string>
+    <string name="Display">Button</string>
+    <string name="Button">Display</string>
+    <string name="EditText">Enter Something</string>
+    <string name="TextView">Display what the user entered</string>
+    <string name="TextOff">Text input Disabled</string>
+    <string name="TextOn">Text input Enabled</string>
+
+</resources>
